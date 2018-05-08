@@ -1,3 +1,7 @@
+## Drop Off Point for Notes.
+
+You can add things here about tech in general and file at will.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/web-tc/notes.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
